@@ -1,0 +1,67 @@
+[
+    {
+        "items":"Volini Spray",
+        "img":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/2f1dda5112d048f2baf1b99506b72059.jpg",
+        "desc":"Bottle of 75 ml Shampoo",
+        "mprice":"MRP ₹280",
+        "discount":"15% off",
+        "Price":"₹250"
+    },
+    {
+        "items":"Crocin Pain Relief Tablet",
+        "img":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/onav4rssxbdwvk1pedey.jpg",
+        "desc":"Strip of 15 tablet",
+        "mprice":"MRP ₹150",
+        "discount":"10% off",
+        "Price":"₹100"
+        
+    },
+    {
+        "items":"Saridon Advance Tablet",
+        "img":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ga3wcjor5sw9sam0zqkv.jpg",
+        "desc":"Strip of 15 tablet",
+        "mprice":"MRP ₹345",
+        "discount":"39% off",
+        "Price":"₹180"
+    },
+    {
+        "items":"Iodex extra gel",
+        "img":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/kqsv2q2yrhcnsqlgicur.jpg",
+        "desc":"Bottle of 75 ml Shampoo",
+        "mprice":"MRP ₹110",
+        "discount":"25% off",
+        "Price":"₹80"
+    },
+    {
+        "items":"Cofsils Lozenges Orange",
+        "img":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/vku1bgimm9wicwhrhbma.jpg",
+        "desc":"Strip of 15 tablet",
+        "mprice":"MRP ₹100",
+        "discount":"13% off",
+        "Price":"₹87"
+    },
+    {
+        "items":"Move Pain Relief Cream",
+        "img":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/anmvxqumjyyd084kchln.jpg",
+        "desc":"Bottle of 75 ml Shampoo",
+        "mprice":"MRP ₹150",
+        "discount":"22% off",
+        "Price":"₹120"
+    },
+    {
+        "items":"Volini Joint Xpert Pain Relief Gel",
+        "img":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/jzqyzpo6actwwimcbzuc.jpg",
+        "desc":"Bottle of 75 ml Shampoo",
+        "mprice":"MRP ₹300",
+        "discount":"10% off",
+        "Price":"₹199"
+    },
+    {
+        "items":"Cofsils Cough Syrup",
+        "img":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/eocfogsw4usj03od0hxv.jpg",
+        "desc":"Bottle of 75 ml Shampoo",
+        "mprice":"MRP ₹299",
+        "discount":"14% off",
+        "Price":"₹199"
+    }
+]
