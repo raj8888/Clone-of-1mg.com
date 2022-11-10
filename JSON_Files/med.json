@@ -1,0 +1,681 @@
+[
+{
+        "item":"Glyco 6 Cream",
+        "img":"https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/kqkouvaqejbyk47dvjfu.jpg",
+        "pre":"Prescription Required",
+        "dtag":"Product highlights",
+        "desc":{
+            "p1":"Glycolic acid is an excellent treatment for fading dark pimple marks",
+            "p2":"Prevents future acne breakouts.",
+            "p3":"Prevents hyperpigmentation"
+        },
+        "Sideeff":{
+            "s1":"Use Glyco 6 by applying it as a thin layer at night.",
+            "s2":" Then skip for 2 nights. Continue this for 2 weeks or so.",
+            "s3":"Do not exceed the recommended dose",
+            "s4":"kin rash"
+        },
+        "company":"Micro Labs Ltd",
+        "mprice":"MRP ₹185",
+        "discount":"15% off",
+        "Price":"₹157",
+        "STORAGE":"30°C",
+        "type":"cream",
+        "disease":"acne"
+},
+{
+    "item":"Amixide-H Tablet",
+    "img":"https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/grmojjoq0nyz53x5qbpu.jpg",
+    "pre":"Prescription Required",
+    "dtag":"Product highlights",
+    "desc":{
+        "p1":"Amixide-H Tablet is a combination of two medicines.",
+        "p2":"It is used in the treatment of depression associated with anxiety",
+        "p3":" It helps in regulating mood and to reduce anxiety. "
+    },
+    "Sideeff":{
+        "s1":"Difficulty in urination",
+        "s2":"Constipation",
+        "s3":"Weight gain",
+        "s4":"Blurred vision"
+    },
+    "company":"Sun Pharmaceutical Industries Ltd",
+    "mprice":"MRP ₹999",
+    "discount":"50% off",
+    "Price":"₹499",
+    "STORAGE":"30°C",
+    "type":"Tablet",
+    "disease":"anxiety"
+},
+{
+    "item":"Cremaffin Plus Syrup Sugar Free",
+    "img":"https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/b1boqg0ojlqlakx9hude.jpg",
+    "pre":"Prescription Required",
+    "dtag":"Product highlights",
+    "desc":{
+        "p1":"Cremaffin Plus Syrup Refreshing Sugar Free is a combination medicine used in the treatment of constipation. ",
+        "p2":" This medicine absorbs water, hence makes the stool soft and easier to pass. It also helps in the easy passage of gas",
+        "p3":"For asthma, prefer giving Montair LC Kid Syrup in the evening or 2 hours before physical activity. "
+    },
+    "Sideeff":{
+        "s1":"Rash",
+        "s2":"Nausea",
+        "s3":"Diarrhea",
+        "s4":"Vomiting"
+    },
+    "company":"Abbott",
+    "mprice":"MRP ₹216",
+    "discount":"19% off",
+    "Price":"₹199",
+    "STORAGE":"30°C",
+    "type":"syrup",
+    "disease":"stomach"
+},
+{
+    "item":"Evion 400mg Capsule",
+    "img":"https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/xkg2uukifmrwghktvquj.jpg",
+    "pre":"Prescription Required",
+    "dtag":"Product highlights",
+    "desc":{
+        "p1":"Promotes healthy skin and hair health",
+        "p2":" Improves muscle health",
+        "p3":"Boosts immune function"
+    },
+    "Sideeff":{
+        "s1":"Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. ",
+        "s2":"Consult your doctor if they persist or if you’re worried about them",
+        "s3":"Diarrhea",
+        "s4":"Consult your doctor if they persist or if you’re worried about them"
+    },
+    "company":"Procter & Gamble Hygiene and Health Care Ltd",
+    "mprice":"MRP ₹93",
+    "discount":"16% off",
+    "Price":"₹80",
+    "STORAGE":"30°C",
+    "type":"capsule",
+    "disease":"skin"
+},
+{
+    "item":"Allegra-M Tablet",
+    "img":"https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/eh4vt8l9fuo4nvx3qwif.jpg",
+    "pre":"Prescription Required",
+    "dtag":"Product highlights",
+    "desc":{
+        "p1":"Allegra-M Tablet is a combination medicine used in the treatment of allergy symptoms such as runny nose, stuffy nose, sneezing, watery eyes, and congestion or stuffiness.",
+        "p2":"Allegra-M Tablet is taken with or without food in a dose and duration as advised by the doctor. ",
+        "p3":" The dose you are given will depend on your condition and how you respond to the medicine. You should keep taking this medicine for as long as your doctor recommends. "
+    },
+    "Sideeff":{
+        "s1":"Nausea",
+        "s2":"Diarrhea",
+        "s3":"Vomiting",
+        "s4":"kin rash"
+    },
+    "company":"Sanofi India Ltd",
+    "mprice":"MRP ₹241",
+    "discount":"50% off",
+    "Price":"₹176",
+    "STORAGE":"30°C",
+    "type":"Tablet",
+    "disease":"sneezing"
+},
+{
+    "item":"Nutrabay Pro L-Carnitine",
+    "img":"https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/eqxxcickq9ubjppo1ukq.jpg",
+    "pre":"Prescription Required",
+    "dtag":"Product highlights",
+    "desc":{
+        "p1":"Nutrabay Pro L-Carnitine Capsule contains L-Carnitine, an amino acid",
+        "p2":" It also neutralizes the acid and promotes easy passage of gas to reduce stomach discomfort.",
+        "p3":"Before taking it, let your doctor know if you are allergic to any antibiotics or have any kidney or liver problems. "
+    },
+    "Sideeff":{
+        "s1":"Vomiting",
+        "s2":"Nausea",
+        "s3":"Diarrhea",
+        "s4":"Consult your doctor if they persist or if you’re worried about them"
+    },
+    "company":"Radicura Pharma pvt ltd",
+    "mprice":"MRP ₹799",
+    "discount":"27% off",
+    "Price":"₹579",
+    "STORAGE":"30°C",
+    "type":"capsule",
+    "disease":"weight"
+},
+{
+    "item":"Ecosprin AV 75/20 Capsule",
+    "img":"https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/dqhtczpkqjcegs4f0vef.jpg",
+    "pre":"Prescription Required",
+    "dtag":"Product highlights",
+    "desc":{
+        "p1":"Ecosprin AV 75/20 Capsule is a combination of two medicines used to prevent heart attack and stroke.",
+        "p2":"Ecosprin AV 75/20 Capsule should be taken with food to avoid stomach upset. ",
+        "p3":"Moreover, it also decreases the formation of blood clots."
+    },
+    "Sideeff":{
+        "s1":"Vomiting",
+        "s2":"Nausea",
+        "s3":"Diarrhea",
+        "s4":"Consult your doctor if they persist or if you’re worried about them"
+    },
+    "company":"USV Ltd",
+    "mprice":"MRP ₹39",
+    "discount":"16% off",
+    "Price":"₹30",
+    "STORAGE":"30°C",
+    "type":"capsule",
+    "disease":"bp"
+},
+{
+    "item":"Amoxyclav 625 Tablet",
+    "img":"https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/donabkucxkldhaxlgoyq.jpg",
+    "pre":"Prescription Required",
+    "dtag":"Product highlights",
+    "desc":{
+        "p1":"Amoxyclav 625 Tablet is a penicillin-type of antibiotic that helps your body fight infections caused by bacteria.",
+        "p2":"It is used to treat infections of the lungs (e.g., pneumonia), ear, nasal sinus, urinary tract, skin, and soft tissue.",
+        "p3":"It will not work for viral infections such as the common cold."
+    },
+    "Sideeff":{
+        "s1":"Nausea",
+        "s2":"Diarrhea",
+        "s3":"Vomiting",
+        "s4":"kin rash"
+    },
+    "company":"Abbott",
+    "mprice":"MRP ₹223",
+    "discount":"46% off",
+    "Price":"₹120",
+    "STORAGE":"30°C",
+    "type":"Tablet",
+    "disease":"infection"
+},
+
+{
+    "item":"Azithral 500 Tablet",
+    "img":"https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/kqkouvaqejbyk47dvjfu.jpg",
+    "pre":"Prescription Required",
+    "dtag":"Product highlights",
+    "desc":{
+        "p1":"Azithral 500 Tablet is taken orally, preferably one hour before or 2 hours after a meal.",
+        "p2":"It should be used regularly at evenly spaced time intervals as prescribed by your doctor. ",
+        "p3":"It will not work for viral infections such as the common cold."
+    },
+    "Sideeff":{
+        "s1":"Nausea",
+        "s2":"Diarrhea",
+        "s3":"Vomiting",
+        "s4":"kin rash"
+    },
+    "company":"Alembic Pharmaceuticals Ltd",
+    "mprice":"MRP ₹132",
+    "discount":"20% off",
+    "Price":"₹105",
+    "STORAGE":"30°C",
+    "type":"Tablet",
+    "disease":"infection"
+},
+{
+    "item":"SDH Naturals Crush-RT Syrup",
+    "img":"https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/sqb6upygdhv1is05uoug.jpg",
+    "pre":"Prescription Required",
+    "dtag":"Product highlights",
+    "desc":{
+        "p1":"It may protect against nephrotoxins",
+        "p2":"It may protect against the high glucose level induced nephron damage",
+        "p3":"It can manage the elevated Biochemical markers"
+    },
+    "Sideeff":{
+        "s1":"Rash",
+        "s2":"Nausea",
+        "s3":"Diarrhea",
+        "s4":"Vomiting"
+    },
+    "company":"SDH Naturals",
+    "mprice":"MRP ₹390",
+    "discount":"5% off",
+    "Price":"₹371",
+    "STORAGE":"30°C",
+    "type":"syrup",
+    "disease":"cough"
+},
+{
+    "item":"Betnovate-C Cream",
+    "img":"https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/suh9cpr4ojpmmdbshw2a.jpg",
+    "pre":"Prescription Required",
+    "dtag":"Product highlights",
+    "desc":{
+        "p1":"Betnovate-C Cream is a combination of two different medicines.",
+        "p2":"It is used in the treatment of bacterial and fungal infections of the skin. ",
+        "p3":" It also helps to treat inflammatory skin conditions by relieving symptoms like redness, swelling, and itching."
+    },
+    "Sideeff":{
+        "s1":"Most side effects do not require any medical attention and disappear as your body adjusts to the medicine.",
+        "s2":" Burning sensation",
+        "s3":"Itching",
+        "s4":"kin rash"
+    },
+    "company":"Glaxo SmithKline Pharmaceuticals Ltd",
+    "mprice":"MRP ₹59",
+    "discount":"12% off",
+    "Price":"₹44",
+    "STORAGE":"30°C",
+    "type":"cream",
+    "disease":"skin"
+},
+{
+    "item":"Dolo 650 Tablet",
+    "img":"https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/mu5bahqxfrp28cut6que.jpg",
+    "pre":"Prescription Required",
+    "dtag":"Product highlights",
+    "desc":{
+        "p1":"Dolo 650 Tablet helps relieve pain and fever by blocking the release of certain chemical messengers responsible for fever and pain. ",
+        "p2":"It is used to treat headaches, migraine, nerve pain, toothache, sore throat, period (menstrual) pains, arthritis, muscle aches, and the common cold.",
+        "p3":"  It minimizes symptoms of inflammation such as redness, swelling, and itching. "
+    },
+    "Sideeff":{
+        "s1":"Stomach pain",
+        "s2":"Nausea",
+        "s3":"Paresthesia",
+        "s4":"Vomiting"
+    },
+    "company":"Micro Labs Ltd",
+    "mprice":"MRP ₹155",
+    "discount":"35% off",
+    "Price":"₹101",
+    "STORAGE":"30°C",
+    "type":"Tablet",
+    "disease":"fevercoldhead"
+},
+
+{
+    "item":"Betnovate Cream",
+    "img":"https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/Betnovate_0.1_Cream-20.0gm-tube-1.jpg",
+    "pre":"Prescription Required",
+    "dtag":"Product highlights",
+    "desc":{
+        "p1":"Betnovate Cream is a combination of two different medicines.",
+        "p2":"It is used in the treatment of bacterial and fungal infections of the skin. ",
+        "p3":" It also helps to treat inflammatory skin conditions by relieving symptoms like redness, swelling, and itching."
+    },
+    "Sideeff":{
+        "s1":"Most side effects do not require any medical attention and disappear as your body adjusts to the medicine.",
+        "s2":" Burning sensation",
+        "s3":"Itching",
+        "s4":"kin rash"
+    },
+    "company":"Glaxo SmithKline Pharmaceuticals Ltd",
+    "mprice":"MRP ₹17",
+    "discount":"20% off",
+    "Price":"₹15",
+    "STORAGE":"30°C",
+    "type":"cream",
+    "disease":"insect"
+},
+{
+    "item":"Candid-B Cream",
+    "img":"https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/fu5h6gvl6hok59hfqid9.jpg",
+    "pre":"Prescription Required",
+    "dtag":"Product highlights",
+   
+    "desc":{
+        "p1":"Candid-B Cream is a combination medicine. ",
+        "p2":"It is used to treat various types of skin infections usually the fungal type of skin infections.",
+        "p3":"  It minimizes symptoms of inflammation such as redness, swelling, and itching. "
+    },
+    "Sideeff":{
+        "s1":"Most side effects do not require any medical attention and disappear as your body adjusts to the medicine.",
+        "s2":"Paresthesia",
+        "s3":"Paresthesia",
+        "s4":"Burning sensation"
+    },
+    "company":"Glenmark Pharmaceuticals Ltd",
+    "mprice":"MRP ₹139",
+    "discount":"13% off",
+    "Price":"₹120",
+    "STORAGE":"30°C",
+    "type":"cream",
+    "disease":"fungal"
+},
+{
+    "item":"Ultrabrite Cream",
+    "img":"https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/cchreoxnaxsdoaegox2u.jpg",
+    "pre":"Prescription Required",
+    "dtag":"Product highlights",
+    
+    "desc":{
+        "p1":"Ultrabrite Cream is a prescription medicine used in the treatment of melasma.",
+        "p2":"It helps in quick skin renewal. It provides relief from redness, swelling, and itching.",
+        "p3":"  It minimizes symptoms of inflammation such as redness, swelling, and itching. "
+    },
+    "Sideeff":{
+        "s1":"Most side effects do not require any medical attention and disappear as your body adjusts to the medicine.",
+        "s3":"Paresthesia",
+        "s4":"Burning sensation"
+    },
+    "company":"Leeford Healthcare Ltd SALT COMPOSITION",
+    "mprice":"MRP ₹155",
+    "discount":"35% off",
+    "Price":"₹101",
+    "STORAGE":"30°C",
+    "type":"cream",
+    "disease":"melasma"
+},
+
+{
+    "item":"Montair LC Kid Syrup",
+    "img":"https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/zhd8fv9gmxscys86uumw.jpg",
+    "pre":"Prescription Required",
+    "dtag":"Product highlights",
+    "desc":{
+        "p1":"It may also help in the treatment of asthma and skin allergies",
+        "p2":"Give this medicine to your child at a fixed time before or after food in the prescribed dose, time, and way",
+        "p3":"For asthma, prefer giving Montair LC Kid Syrup in the evening or 2 hours before physical activity. "
+    },
+    "Sideeff":{
+        "s1":"Rash",
+        "s2":"Nausea",
+        "s3":"Diarrhea",
+        "s4":"Vomiting"
+    },
+    "company":"Cipla Ltd",
+    "mprice":"MRP ₹127",
+    "discount":"19% off",
+    "Price":"₹102",
+    "STORAGE":"30°C",
+    "type":"syrup",
+    "disease":"cough"
+},
+
+{
+    "item":"Benadryl Syrup",
+    "img":"https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/fx5zcdfgs5sezfoa6hbt.jpg",
+    "pre":"Prescription Required",
+    "dtag":"Product highlights",
+    "desc":{
+        "p1":"Benadryl Syrup is used in the treatment of cough.",
+        "p2":"It relieves allergy symptoms such as runny nose, stuffy nose, sneezing, watery eyes, and congestion or stuffiness.",
+        "p3":" It also thins mucus in the nose, windpipe, and lungs, making it easier to cough out."
+    },
+    "Sideeff":{
+        "s1":"Rash",
+        "s2":"Nausea",
+        "s3":"Diarrhea",
+        "s4":"Vomiting"
+    },
+    "company":"Johnson & Johnson Ltd",
+    "mprice":"MRP ₹103",
+    "discount":"19% off",
+    "Price":"₹94",
+    "STORAGE":"30°C",
+    "type":"syrup",
+    "disease":"cold"
+},
+
+{
+    "item":"Maxtra Syrup",
+    "img":"https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/dzk5eriematwvvro0pb8.jpg",
+    "pre":"Prescription Required",
+    "dtag":"Product highlights",
+    "desc":{
+        "p1":"Maxtra Syrup is a combination medicine used in the treatment of common cold symptoms.",
+        "p2":"It relieves allergy symptoms such as runny nose, stuffy nose, sneezing, watery eyes and congestion or stuffiness.",
+        "p3":"Maxtra Syrup is taken with or without food in a dose and duration as advised by the doctor."
+    },
+    "Sideeff":{
+        "s1":"Rash",
+        "s2":"Nausea",
+        "s3":"Diarrhea",
+        "s4":"Vomiting"
+    },
+    "company":"Zuventus Healthcare Ltd",
+    "mprice":"MRP ₹76",
+    "discount":"20% off",
+    "Price":"₹70",
+    "STORAGE":"30°C",
+    "type":"syrup",
+    "disease":"cold"
+},
+{
+    "item":"Ascoril LS Syrup",
+    "img":"https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/g1iqjueamxmetjafxrib.jpg",
+    "pre":"Prescription Required",
+    "dtag":"Product highlights",
+    "desc":{
+        "p1":"Ascoril LS Syrup is a combination medicine used in the treatment of cough with mucus.",
+        "p2":" It thins mucus in the nose, windpipe, and lungs, making it easier to cough out.",
+        "p3":"It also provides relief from runny nose, sneezing, itching, and watery eyes.."
+    },
+    "Sideeff":{
+        "s1":"Rash",
+        "s2":"Nausea",
+        "s3":"Diarrhea",
+        "s4":"Vomiting"
+    },
+    "company":"Glenmark Pharmaceuticals Ltd",
+    "mprice":"MRP ₹118",
+    "discount":"20% off",
+    "Price":"₹94",
+    "STORAGE":"30°C",
+    "type":"syrup",
+    "disease":"cough"
+},
+{
+    "item":"Cyra-D Capsule",
+    "img":"https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/xixi6zf6njlw84thexhc.jpg",
+    "pre":"Prescription Required",
+    "dtag":"Product highlights",
+    "desc":{
+        "p1":"Cyra-D Capsule is a combination medicine used to treat gastroesophageal reflux disease ",
+        "p2":" It also neutralizes the acid and promotes easy passage of gas to reduce stomach discomfort.",
+        "p3":"Before taking it, let your doctor know if you are allergic to any antibiotics or have any kidney or liver problems. "
+    },
+    "Sideeff":{
+        "s1":"Vomiting",
+        "s2":"Nausea",
+        "s3":"Diarrhea",
+        "s4":"Consult your doctor if they persist or if you’re worried about them"
+    },
+    "company":"Systopic Laboratories Pvt Ltd",
+    "mprice":"MRP ₹37",
+    "discount":"20% off",
+    "Price":"₹34",
+    "STORAGE":"30°C",
+    "type":"capsule",
+    "disease":"ulcer"
+},
+
+{
+    "item":"Uprise-D3 60K Capsule",
+    "img":"https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/nxj8ncouzs9g3zsp5ize.jpg",
+    "pre":"Prescription Required",
+    "dtag":"Product highlights",
+    "desc":{
+        "p1":"Uprise-D3 60K Capsule is used in the treatment of vitamin D deficiency and osteoporosis.",
+        "p2":" It helps the body to absorb calcium",
+        "p3":"Calcium is essential for maintaining strong and healthy bones."
+    },
+    "Sideeff":{
+        "s1":"Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. ",
+        "s2":"Consult your doctor if they persist or if you’re worried about them",
+        "s3":"Diarrhea",
+        "s4":"Consult your doctor if they persist or if you’re worried about them"
+    },
+    "company":"Alkem Laboratories Ltd",
+    "mprice":"MRP ₹293",
+    "discount":"16% off",
+    "Price":"₹255",
+    "STORAGE":"30°C",
+    "type":"capsule",
+    "disease":"calcium"
+},
+
+{
+    "item":"Ecosprin-AV 75 Capsule",
+    "img":"https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/csmquszviirzaytoccm4.jpg",
+    "pre":"Prescription Required",
+    "dtag":"Product highlights",
+    "desc":{
+        "p1":"Ecosprin-AV 75 Capsule should be taken with food to avoid stomach upset.",
+        "p2":" You should take it regularly at evenly spaced intervals as per the schedule prescribed by your doctor.",
+        "p3":"Boosts immune function"
+    },
+    "Sideeff":{
+        "s1":"Flatulence ",
+        "s2":"Constipation",
+        "s3":"Increased liver enzymes",
+        "s4":"Hepatitis (viral infection of liver)"
+    },
+    "company":"USV Ltd",
+    "mprice":"MRP ₹60",
+    "discount":"16% off",
+    "Price":"₹51",
+    "STORAGE":"30°C",
+    "type":"capsule",
+    "disease":"bp"
+},
+{
+    "item":"Augmentin 625 Duo Tablet",
+    "img":"https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/wy2y9bdipmh6rgkrj0zm.jpg",
+    "pre":"Prescription Required",
+    "dtag":"Product highlights",
+    "desc":{
+        "p1":"Augmentin 625 Duo Tablet is a penicillin-type of antibiotic that helps your body fight infections caused by bacteria.",
+        "p2":"Augmentin 625 Duo Tablet is best taken with a meal to reduce the chance of a stomach upset.",
+        "p3":"Before taking it, let your doctor know if you are allergic to any antibiotics or have any kidney or liver problems. "
+    },
+    "Sideeff":{
+        "s1":"Vomiting",
+        "s2":"Nausea",
+        "s3":"Diarrhea",
+        "s4":"Consult your doctor if they persist or if you’re worried about them"
+    },
+    "company":"Glaxo SmithKline Pharmaceuticals Ltd",
+    "mprice":"MRP ₹1999",
+    "discount":"75% off",
+    "Price":"₹499",
+    "STORAGE":"30°C",
+    "type":"Tablet",
+    "disease":"infection"
+},
+{
+    "item":"Allegra 120mg Tablet",
+    "img":"https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/41eee946b9484312ab962e44f5856c78.jpg",
+    "pre":"Prescription Required",
+    "dtag":"Product highlights",
+    "desc":{
+        "p1":"Allegra 120mg Tablet may be taken with or without food, in the dose and duration as advised by the doctor.",
+        "p2":"The dose you are given will depend on your condition and how you respond to the medicine.",
+        "p3":"It will not work for viral infections such as the common cold."
+    },
+    "Sideeff":{
+        "s1":"Nausea",
+        "s2":"Diarrhea",
+        "s3":"Vomiting",
+        "s4":"kin rash"
+    },
+    "company":"Sanofi India Ltd",
+    "mprice":"MRP ₹218",
+    "discount":"16% off",
+    "Price":"₹179",
+    "STORAGE":"30°C",
+    "type":"Tablet",
+    "disease":"fever"
+},
+{
+    "item":"Moov Pain Relief Cream",
+    "img":"https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/anmvxqumjyyd084kchln.jpg",
+    "pre":"Prescription Required",
+    "dtag":"Product highlights",
+    "desc":{
+        "p1":"Moov Pain Relief Cream reduces irritation and swelling around the affected area",
+        "p2":"The mint leaves in Moov pain relief cream gives a cooling effect to the pain and treat the sore muscles and relieve joint aches",
+        "p3":"Turpentine oil helps to alleviate tissue discomfort and relax muscles"
+    },
+    "Sideeff":{
+        "s1":"Keep out of the reach and sight of children",
+        "s2":"Read the label carefully before use",
+        "s3":"Store in a cool dry place and away from direct sunlight",
+        "s4":"For external use only"
+    },
+    "company":"Reckitt Benckiser",
+    "mprice":"MRP ₹218",
+    "discount":"16% off",
+    "Price":"₹179",
+    "STORAGE":"30°C",
+    "type":"cream",
+    "disease":"muscular"
+},
+{
+    "item":"Dr Ortho an Ayurvedic Oil",
+    "img":"https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/cropped/qjz8l72piinjwwynexks.png",
+    "pre":"Prescription Required",
+    "dtag":"Product highlights",
+    "desc":{
+        "p1":"Moov Pain Relief Cream reduces irritation and swelling around the affected area",
+        "p2":"The mint leaves in Moov pain relief cream gives a cooling effect to the pain and treat the sore muscles and relieve joint aches",
+        "p3":"Turpentine oil helps to alleviate tissue discomfort and relax muscles"
+    },
+    "Sideeff":{
+        "s1":"Keep out of the reach and sight of children",
+        "s2":"Read the label carefully before use",
+        "s3":"Store in a cool dry place and away from direct sunlight",
+        "s4":"For external use only"
+    },
+    "company":"By Dr,Ortho",
+    "mprice":"MRP ₹229",
+    "discount":"16% off",
+    "Price":"₹188",
+    "STORAGE":"30°C",
+    "type":"cream",
+    "disease":"muscular"
+},
+{
+    "item":"Iodex Balm",
+    "img":"https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/ruwkhulsratjs1xdv8pj.jpg",
+    "pre":"Prescription Required",
+    "dtag":"Product highlights",
+    "desc":{
+        "p1":"Moov Pain Relief Cream reduces irritation and swelling around the affected area",
+        "p2":"The mint leaves in Moov pain relief cream gives a cooling effect to the pain and treat the sore muscles and relieve joint aches",
+        "p3":"Turpentine oil helps to alleviate tissue discomfort and relax muscles"
+    },
+    "Sideeff":{
+        "s1":"Keep out of the reach and sight of children",
+        "s2":"Read the label carefully before use",
+        "s3":"Store in a cool dry place and away from direct sunlight",
+        "s4":"For external use only"
+    },
+    "company":"GlaxoSmithKline Consumer Healthcare",
+    "mprice":"MRP ₹160",
+    "discount":"16% off",
+    "Price":"₹140",
+    "STORAGE":"30°C",
+    "type":"cream",
+    "disease":"muscular"
+},
+{
+    "item":"Crocin Pain Relief Tablet",
+    "img":"https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/onav4rssxbdwvk1pedey.jpg",
+    "dtag":"Product highlights",
+    "desc":{
+        "p1":"Crocin Pain Relief Tablet is a combination of two medicines used in the treatment of headache",
+        "p2":" It helps relieve headache by blocking the release of certain chemical messengers that causes headache.",
+        "p3":"Turpentine oil helps to alleviate tissue discomfort and relax muscles"
+    },
+    "Sideeff":{
+        "s1":"Nervousness",
+        "s2":"Irritation",
+        "s3":"Restlessness",
+        "s4":"For external use only"
+    },
+    "company":"GlaxoSmithKline Consumer Healthcare",
+    "mprice":"MRP ₹65",
+    "discount":"16% off",
+    "Price":"₹45",
+    "STORAGE":"30°C",
+    "type":"Tablet",
+    "disease":"fevercoldpain"
+}
+]

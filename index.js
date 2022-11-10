@@ -209,3 +209,4 @@ function displaynewar(datanewar){
     document.querySelector(".shownewar").append(div)
  });
 }
+

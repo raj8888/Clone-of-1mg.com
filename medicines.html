@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All Medicines</title>
+    <link rel="stylesheet" href="medpage.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+</head>
+<body>
+    <div class="container">
+        <div class="topsec">
+            <div class="top-bar">
+              <div class="logo">
+                <a href="index.html"
+                  ><img src="/Health_guru_logo.png" alt="" id="logo"
+                /></a>
+              </div>
+              <div class="area">
+                <a href="">MEDICINES</a>
+                <a href="">LAB TESTS</a>
+                <a href="">CONSULT DOCTORS</a>
+                <a href="">COVID-19</a>
+                <a href="">AYURVEDA</a>
+                <a href="">CAREPLAN</a>
+              </div>
+              <div class="profile">
+                <img
+                  id="profile"
+                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsAxftHW7ex0ZIqqlCZ2rBDZPYJICgOBBvlw&usqp=CAU"
+                  alt=""
+                />
+                <div id="slo">
+                  <a href="">Login | Sign-up</a>
+                  <a href="">Offers</a>
+                </div>
+                <a href="" id="cart"
+                  ><img
+                    src="https://cdn-icons-png.flaticon.com/512/263/263142.png"
+                    alt=""
+                /></a>
+              </div>
+            </div>
+            <div class="search-bar">
+             <div class="filterdata">
+                <select name="" class="fildata" onchange="typeofmed()">
+                    <option value="Filter All" >Select Category</option>
+                    <option value="Tablet">Tablets</option>
+                    <option value="capsule">Capsules</option>
+                    <option value="syrup">Syrups</option>
+                    <option value="cream">Creams</option>
+                </select>
+             </div>
+              <div class="search-medicine">
+                <input
+                  oninput="search()"
+                  type="text"
+                  placeholder="Search For Medicine and Health Care Product"
+                  id="itemsearch"
+                />
+                <button id="main-search">
+                  <i class="fa fa-search" style="font-size: 18px"> </i>
+                </button>
+              </div>
+              <div class="filterdata">
+                <select name="" class="fildatadis" onchange="typeofdis()">
+                    <option value="Filter All"><p>Select Disease</p></option>
+                    <option value="acne"><p>Acne Prevention</p></option>
+                    <option value="anxiety"><p>Anxiety issue</p></option>
+                    <option value="stomach"><p>Stomach Pain</p></option>
+                    <option value="skin"><p>Skin Care</p></option>
+                    <option value="sneezing"><p>Sneezing</p></option>
+                    <option value="weight"><p>Weight Loss</p></option>
+                    <option value="bp"><p>High BP</p></option>
+                    <option value="infection"><p>Bacterial Infection</p></option>
+                    <option value="cough"><p>Cough</p></option>
+                    <option value="fevercoldhead"><p>Headache</p></option>
+                    <option value="insect"><p>Insect Bite</p></option>
+                    <option value="fungal"><p>Fungal Infection</p></option>
+                    <option value="melasma"><p>Melasma</p></option>
+                    <option value="cold"><p>Cold</p></option>
+                    <option value="ulcer"><p>Ulcer</p></option>
+                    <option value="calcium"><p>Calcium</p></option>
+                    <option value="fever"><p>Fever</p></option>
+                    <option value="muscular"><p>Muscular Pain</p></option>
+                </select>
+             </div>
+            </div>
+            <div class="item-bar">
+              <div class="HRC">
+                <button class="HRCbtn">Health Resource Center</button>
+                <div class="HRCcon">
+                  <a href="./medicines.html">All Medicine</a>
+                  <a href="#">All Dieseases</a>
+                  <a href="#">Medicine by Therapeutic Class</a>
+                </div>
+              </div>
+              <div class="HRC">
+                <button class="HRCbtn">Vitamins & Nutritions</button>
+                <div class="HRCcon">
+                  <a href="#">Vitamins & Supplements</a>
+                  <a href="#">Nutritional Drinks</a>
+                  <a href="#">Healthy Food & Drinks</a>
+                  <a href="#">Protein Supplements</a>
+                  <a href="#">Omega & Fish Oil</a>
+                  <a href="#">Immunity Boosters</a>
+                  <a href="#">Speciality Supplements</a>
+                  <a href="#">Weight Management</a>
+                </div>
+              </div>
+              <div class="HRC">
+                <button class="HRCbtn">Diabetes</button>
+                <div class="HRCcon">
+                  <a href="#">Sugar Free</a>
+                  <a href="#">Diabetes Monitoring</a>
+                  <a href="#">Diabetic Medicines</a>
+                  <a href="#">Sugar Substitute</a>
+                  <a href="#">Diabetic Diet</a>
+                  <a href="#">Diabetic Foot Health</a>
+                </div>
+              </div>
+              <div class="HRC">
+                <button class="HRCbtn">Healthcare Devices</button>
+                <div class="HRCcon">
+                  <div class="HCD">
+                    <div>
+                      <a href="#">Top Brands in Healthcare Devices</a>
+                      <a href="#">BP Monitors</a>
+                      <a href="#">Oxygen Concentrators & Cans</a>
+                      <a href="#">Thermometers</a>
+                      <a href="#">Weighing Scales</a>
+                      <a href="#">Masks (N95,Surgical and more)</a>
+                      <a href="#">Mobility Equipment</a>
+                    </div>
+                    <div>
+                      <a href="#">Exercise Equipment</a>
+                      <a href="#">Body Massager</a>
+                      <a href="#">Oximeters & Pedometers</a>
+                      <a href="#">Support & Braces</a>
+                      <a href="#">Vaporizers</a>
+                      <a href="#">Doctor's Support</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="HRC">
+                <button class="HRCbtn">Personal Care</button>
+                <div class="HRCcon">
+                  <a href="#">Sexual Wellness</a>
+                  <a href="#">Skin Care</a>
+                  <a href="#">Baby Care</a>
+                  <a href="#">Hair Care</a>
+                  <a href="#">Elderly Care</a>
+                  <a href="#">Women Care</a>
+                  <a href="#">Men Care</a>
+                  <a href="#">Oral Care</a>
+                  <a href="#">Pet Care</a>
+                </div>
+              </div>
+              <div class="HRC">
+                <button class="HRCbtn">Health Condition</button>
+                <div class="HRCcon">
+                  <div class="HCD">
+                    <div>
+                      <a href="#">Stomach Care</a>
+                      <a href="#">Heart Care</a>
+                      <a href="#">Bone, Joint & Muscle Care</a>
+                      <a href="#">Pain Relief</a>
+                      <a href="#">Eye Care</a>
+                      <a href="#">Ear Care</a>
+                      <a href="#">Liver Care</a>
+                      <a href="#">Kideney Care</a>
+                    </div>
+                    <div>
+                      <a href="#">First Aid</a>
+                      <a href="#">Cold & Cough</a>
+                      <a href="#">Fever & Mental Wellness</a>
+                      <a href="#">Respiratory Care</a>
+                      <a href="#">Piles, Fissures & Fistula</a>
+                      <a href="#">Smoking Cessation</a>
+                      <a href="#">Derm Care</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="HRC">
+                <button class="HRCbtn">Ayurveda Products</button>
+                <div class="HRCcon">
+                  <a href="#">Ayurveda Top Brands</a>
+                  <a href="#">Chtawanprash</a>
+                  <a href="#">Popular Categories</a>
+                  <a href="#">Top Health Concerns</a>
+                  <a href="#">Unani Medicines</a>
+                </div>
+              </div>
+              <div class="HRC">
+                <button class="HRCbtn">Homeopathy</button>
+                <div class="HRCcon">
+                  <a href="#">Homeopathy Top Brands</a>
+                  <a href="#">Homeopathy Wellness Combos</a>
+                  <a href="#">Homeopathy Popular Categories</a>
+                  <a href="#">Homeopathy Medicines</a>
+                </div>
+              </div>
+              <div class="HRC">
+                <button class="HRCbtn">Featured</button>
+                <div class="HRCcon">
+                  <a href="#">Winter Care</a>
+                  <a href="#">Trending Now</a>
+                  <a href="#">Tata 1 mg Products</a>
+                  <a href="#">Super Savings</a>
+                  <a href="#">Top Brands</a>
+                  <a href="#">Deals of the Day</a>
+                </div>
+              </div>
+              <div class="HRC">
+                <button class="HRCbtn">Covid Essentials</button>
+                <div class="HRCcon">
+                  <a href="#">Self Test Kit</a>
+                  <a href="#">Masks</a>
+                  <a href="#">Sanitizers & Handwash Products</a>
+                  <a href="#">Thermometers</a>
+                  <a href="#">Top Brands</a>
+                  <a href="#">Oxygen Cans & Concentrators</a>
+                  <a href="#">Support Your Immunity</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="midsec"></div>
+          <div class="endsec">
+            <div class="num">
+              <h1>INDIA’S LARGEST HEALTHCARE PLATFORM</h1>
+              <div class="count">
+                <div><h2>260m+ <br> Visitors</h2></div>
+                <div><h2>31m+  <br>Orders Delivered</h2></div>
+                <div><h2>1800+  <br>Cities</h2></div>
+              </div>
+            </div>
+            <div class="link">
+              <div><h2>Get the link to download App</h2></div>
+              <div> <input type="tel" placeholder="Enter phone Number" value="+91">
+                <button>Send Link</button>
+              </div>
+             
+            </div>
+            <div class="service">
+              <div class="infoser">
+                <h3>Know Us</h3>
+                <a href="">About Us</a>
+                <a href="">Contack Us</a>
+                <a href="">Press Coverage</a>
+                <a href="">Careers</a>
+                <a href="">Buisness Partnership</a>
+                <a href="">Partner</a>
+              </div>
+              <div class="infoser">
+                <h3>Our Policies</h3>
+                <a href="">Policy</a>
+                <a href="">Privacy Policies</a>
+                <a href="">Terms and condition</a>
+                <a href="">Editorial Policy</a>
+                <a href="">Return Policy</a>
+                <a href="">IP policy</a>
+              </div>
+              <div class="infoser">
+                <h3>Our Services</h3>
+                <a href="">Order Medicines</a>
+                <a href="">Book Labtest</a>
+                <a href="">Consult a Doctor</a>
+                <a href="">Ayurveda</a>
+                <a href="">Care plan</a>
+                <a href="">Articles</a>
+              </div>
+              <div class="socialme">
+                <h3>Connect</h3>
+                <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/225px-Twitter-logo.svg.png" alt=""></a>
+                <a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaDVk34bIaDKIIhlU-tmEnxJdzEBixxKeJsg&usqp=CAU" alt=""></a>
+                <a href=""><img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/225px-Facebook_f_logo_%282021%29.svg.png" alt=""></a>
+                <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/225px-Instagram_logo_2022.svg.png" alt=""></a>
+                <a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUXabJRhY2T8DBfjNDghh2lz230bXRdsOFqw&usqp=CAU" alt=""></a>
+              </div>
+              <div class="downapp">
+                <h3>Download App</h3>
+                <div><a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl6_n8VlXOji9hQHJ5ExlZmGxyI-VNPn2BXQ&usqp=CAU" alt=""></a></div>
+                <div><a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr68fE1SlEcvIO37N-9j2PwZMsTQhAR_aZxQ&usqp=CAU" alt=""></a></div>
+              </div>
+            </div>
+            <div class="copyright">
+              <p>© 2022 Health Guru All rights reserved. In compliance with Drugs and Cosmetics Act, 1940 and Drugs and Cosmetics Rules, 1945, we don't process requests for Schedule X and other habit forming drugs.</p>
+            </div>
+          </div>
+    </div>
+</body>
+<script src="./medpage.js"></script>
+</html>

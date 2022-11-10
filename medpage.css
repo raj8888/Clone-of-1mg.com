@@ -72,10 +72,24 @@
     padding: 11px;
     cursor: pointer;
 }
-.search-bar>.city>input{
-    width: 250px;
+
+.search-bar>.filterdata>select{
+    border: none;
+    width: 170px;
     height: 35px;
+    background-color: rgb(55, 215, 55);
+    font-size: 15px;
+    border-radius: 5px;
+    color: white;
 }
+.search-bar>.filterdata>select>option{
+    background-color: rgb(213, 250, 197);
+    color: grey;
+    font-size: 13px;
+ 
+}
+
+
 .search-bar>.search-medicine>input{
     width: 600px;
     height: 35px;
@@ -124,7 +138,7 @@
     position: absolute;
     background-color: #f1f1f1;
     min-width:180px;
-     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;;
+     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
     z-index: 1;
     font-size: 13px;
     padding: 10px;
@@ -148,101 +162,53 @@
     min-width: 380px;
   }
 
-  .midsec{
-    margin-top: 10px;
-    width: Auto;
-    height:auto;
-  }
-  .midsec>.adv{
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-  }
 
-  .midsec>.adv>.slideshow{
-       width: 68%;
-  }
-  .midsec>.adv>.add{
-    width: 28%;
-    }
-  .midsec>.adv>.slideshow>a>img{
-    width: 100%;
-    height: 300px;
-    border-radius: 15px;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-}
-.midsec>.adv>.add>a>img{
-    width: 100%;
-    height: 300px;
-    border-radius: 15px;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-}
-.midsec>.brands{
-    margin: 20px;
-}
-.showbrand,.showconc,.showpopcat,.showwincare,.showmasks,.showtrecat,.showcccat,.shownewar{
-    margin: 10px 0px;
+.midsec{
+    margin: auto;
     display: grid;
-    grid-template-columns: repeat(8,1fr);
+    grid-template-columns: repeat(3,1fr);
     grid-template-rows: auto;
     gap: 20px;
+    width: 80%;
+    padding-bottom: 20px;
+    margin-top: 20px;
 }
-.showbrand>div,.showconc>div,.showpopcat>div,.showwincare>div,
-.showmasks>div,.showtrecat>div,.showcccat>div,.shownewar>div{
+.midsec>.medbox{
     display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: space-evenly;
+    height:200px;
     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
-    padding: 10px;
+    padding: 20px;
     border-radius: 10px;
-    text-align: center;
 }
-.showbrand>div:hover,.showconc>div:hover,.showpopcat>div:hover,.showwincare>div:hover,.showmasks>div:hover,.showtrecat>div:hover,.showcccat>div:hover,.shownewar>div:hover{
-    cursor: pointer;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+.midsec>.medbox:hover{
+    display: flex;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
 }
-.sallbut{
-    margin: 10px;
-    border: none;
-    background-color: rgb(56, 200, 40);
-    padding: 5px 15px;
-    margin-right:0%;
-    border-radius: 5px;
-    float: right;
+.midsec>.medbox>img{
+    height: 150px;
+    width: 120px;
+    margin-right: 10px;
 }
-.sallbut:hover{
-    background-color: rgb(89, 216, 75);
-    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
-}
-.showmasks>div>img,.showtrecat>div>img,.showcccat>div>img,.shownewar>div>img{
-  height: 50%;
-}
-.showmasks>div>p,.showtrecat>div>p,.showcccat>div>p,.shownewar>div>p{
-    font-size: 10px;
+.midsec>.medbox>.medinfo>p{
     color: grey;
-    text-align: left;
+    font-size: 14px;
+    padding: 1px;
 }
-.showcccat>div,.showtrecat>div,.shownewar>div{
-    height: 200px;
+.midsec>.medbox>.medinfo>.infobut{
+  margin-top: 2px;
+  border: none;
+  background-color: rgb(55, 215, 55);
+  color: white;
+  padding: 3px;
+  border-radius: 5px;
+  cursor: pointer;
 }
-
-.bigpara{
-   height:Auto;
-   box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
-   padding: 10px 20px;
+.midsec>.medbox>.medinfo>.infobut:hover{
+    padding: 4px;
+    background-color: rgb(55, 232, 55);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
-
-.bigpara>h2,.bigpara>h3,.bigpara>p{
-    margin: 15px;
-    text-align: justify;
-}
-.bigpara>p{
-    color: grey;
-    font-size: 15px;
-}
-
-.endsec{
+  .endsec{
     /* margin-top: 30px; */
     width: Auto;
     height:auto;
