@@ -39,7 +39,7 @@ function search(){
     })
     displayammmed(filterdata)
   }
-
+let crtitem=JSON.parse(localStorage.getItem("cartitems"))||[]
 // let trecat=document.querySelector(".showtrecat")
 function displayammmed(allmed){
     document.querySelector(".midsec").innerHTML=""
@@ -67,10 +67,33 @@ function displayammmed(allmed){
     dis.innerText=elem.discount
     let offprice=document.createElement("p")
     offprice.innerText=elem.Price
+    let quan=document.createElement("p")
+    quan.innerText=elem.quan
     let but=document.createElement("button")
-    but.innerText="ADD TO CART"
-    divinfo.append(name,desc,main,price,dis,offprice,type,but)
-    div.append(img,divinfo)
+    but.innerText="ADD"
+    but.addEventListener("click",function(e){
+      e.preventDefault();
+      let flag=false
+      for(let i=0;i<crtitem.length;i++){
+        if(crtitem[i].item==elem.item){
+          flag=true
+        }
+      }
+      if(flag){
+        alert("Product is already in cart")
+      }else{
+        alert("Product Added to Cart")
+      crtitem.push(data[index])
+      localStorage.setItem("cartitems",JSON.stringify(crtitem))
+      }
+      
+    })
+    but.setAttribute("class","infobut")
+    let btndiv=document.createElement("div")
+    btndiv.setAttribute("class","btndiv")
+    btndiv.append(but)
+    divinfo.append(name,desc,quan,main,price,dis,offprice,type)
+    div.append(img,divinfo,btndiv)
     document.querySelector(".midsec").append(div)
  });
 }
