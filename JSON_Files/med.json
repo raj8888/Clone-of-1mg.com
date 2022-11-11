@@ -19,9 +19,11 @@
         "mprice":"MRP ₹185",
         "discount":"15% off",
         "Price":"₹157",
+        "Pric":"157",
         "STORAGE":"30°C",
         "type":"cream",
-        "disease":"acne"
+        "disease":"acne",
+        "quan":"Tube of 20 gm Cream"
 },
 {
     "item":"Amixide-H Tablet",
@@ -43,9 +45,11 @@
     "mprice":"MRP ₹999",
     "discount":"50% off",
     "Price":"₹499",
+    "Pric":"499",
     "STORAGE":"30°C",
     "type":"Tablet",
-    "disease":"anxiety"
+    "disease":"anxiety",
+    "quan":"strips of 15 tablets"
 },
 {
     "item":"Cremaffin Plus Syrup Sugar Free",
@@ -67,9 +71,11 @@
     "mprice":"MRP ₹216",
     "discount":"19% off",
     "Price":"₹199",
+    "Pric":"199",
     "STORAGE":"30°C",
     "type":"syrup",
-    "disease":"stomach"
+    "disease":"stomach",
+    "quan":"Bottle of 100ml syrup"
 },
 {
     "item":"Evion 400mg Capsule",
@@ -91,9 +97,11 @@
     "mprice":"MRP ₹93",
     "discount":"16% off",
     "Price":"₹80",
+    "Pric":"80",
     "STORAGE":"30°C",
     "type":"capsule",
-    "disease":"skin"
+    "disease":"skin",
+    "quan":"strips of 15 tablets"
 },
 {
     "item":"Allegra-M Tablet",
@@ -115,9 +123,11 @@
     "mprice":"MRP ₹241",
     "discount":"50% off",
     "Price":"₹176",
+    "Pric":"176",
     "STORAGE":"30°C",
     "type":"Tablet",
-    "disease":"sneezing"
+    "disease":"sneezing",
+    "quan":"strips of 15 tablets"
 },
 {
     "item":"Nutrabay Pro L-Carnitine",
@@ -139,9 +149,11 @@
     "mprice":"MRP ₹799",
     "discount":"27% off",
     "Price":"₹579",
+    "Pric":"579",
     "STORAGE":"30°C",
     "type":"capsule",
-    "disease":"weight"
+    "disease":"weight",
+    "quan":"strips of 15 tablets"
 },
 {
     "item":"Ecosprin AV 75/20 Capsule",
@@ -163,9 +175,11 @@
     "mprice":"MRP ₹39",
     "discount":"16% off",
     "Price":"₹30",
+    "Pric":"30",
     "STORAGE":"30°C",
     "type":"capsule",
-    "disease":"bp"
+    "disease":"bp",
+    "quan":"strips of 15 tablets"
 },
 {
     "item":"Amoxyclav 625 Tablet",
@@ -187,9 +201,11 @@
     "mprice":"MRP ₹223",
     "discount":"46% off",
     "Price":"₹120",
+    "Pric":"120",
     "STORAGE":"30°C",
     "type":"Tablet",
-    "disease":"infection"
+    "disease":"infection",
+    "quan":"strips of 15 tablets"
 },
 
 {
@@ -212,9 +228,11 @@
     "mprice":"MRP ₹132",
     "discount":"20% off",
     "Price":"₹105",
+    "Pric":"105",
     "STORAGE":"30°C",
     "type":"Tablet",
-    "disease":"infection"
+    "disease":"infection",
+    "quan":"strips of 15 tablets"
 },
 {
     "item":"SDH Naturals Crush-RT Syrup",
@@ -236,9 +254,11 @@
     "mprice":"MRP ₹390",
     "discount":"5% off",
     "Price":"₹371",
+    "Pric":"371",
     "STORAGE":"30°C",
     "type":"syrup",
-    "disease":"cough"
+    "disease":"cough",
+    "quan":"Bottle of 100ml syrup"
 },
 {
     "item":"Betnovate-C Cream",
@@ -260,9 +280,11 @@
     "mprice":"MRP ₹59",
     "discount":"12% off",
     "Price":"₹44",
+    "Pric":"44",
     "STORAGE":"30°C",
     "type":"cream",
-    "disease":"skin"
+    "disease":"skin",
+    "quan":"tube of 20 gm Cream"
 },
 {
     "item":"Dolo 650 Tablet",
@@ -284,9 +306,11 @@
     "mprice":"MRP ₹155",
     "discount":"35% off",
     "Price":"₹101",
+    "Pric":"101",
     "STORAGE":"30°C",
     "type":"Tablet",
-    "disease":"fevercoldhead"
+    "disease":"fevercoldhead",
+    "quan":"strips of 15 tablets"
 },
 
 {
@@ -309,9 +333,11 @@
     "mprice":"MRP ₹17",
     "discount":"20% off",
     "Price":"₹15",
+    "Pric":"15",
     "STORAGE":"30°C",
     "type":"cream",
-    "disease":"insect"
+    "disease":"insect",
+    "quan":"tube of 20 gm Cream"
 },
 {
     "item":"Candid-B Cream",
@@ -334,9 +360,11 @@
     "mprice":"MRP ₹139",
     "discount":"13% off",
     "Price":"₹120",
+    "Pric":"120",
     "STORAGE":"30°C",
     "type":"cream",
-    "disease":"fungal"
+    "disease":"fungal",
+    "quan":"tube of 20 gm Cream"
 },
 {
     "item":"Ultrabrite Cream",
@@ -358,9 +386,11 @@
     "mprice":"MRP ₹155",
     "discount":"35% off",
     "Price":"₹101",
+    "Pric":"101",
     "STORAGE":"30°C",
     "type":"cream",
-    "disease":"melasma"
+    "disease":"melasma",
+    "quan":"tube of 20 gm Cream"
 },
 
 {
@@ -383,9 +413,11 @@
     "mprice":"MRP ₹127",
     "discount":"19% off",
     "Price":"₹102",
+    "Pric":"102",
     "STORAGE":"30°C",
     "type":"syrup",
-    "disease":"cough"
+    "disease":"cough",
+    "quan":"Bottle of 100ml syrup"
 },
 
 {
@@ -408,9 +440,11 @@
     "mprice":"MRP ₹103",
     "discount":"19% off",
     "Price":"₹94",
+    "Pric":"94",
     "STORAGE":"30°C",
     "type":"syrup",
-    "disease":"cold"
+    "disease":"cold",
+    "quan":"Bottle of 100ml syrup"
 },
 
 {
@@ -433,9 +467,11 @@
     "mprice":"MRP ₹76",
     "discount":"20% off",
     "Price":"₹70",
+    "Pric":"70",
     "STORAGE":"30°C",
     "type":"syrup",
-    "disease":"cold"
+    "disease":"cold",
+    "quan":"Bottle of 100ml syrup"
 },
 {
     "item":"Ascoril LS Syrup",
@@ -457,9 +493,11 @@
     "mprice":"MRP ₹118",
     "discount":"20% off",
     "Price":"₹94",
+    "Pric":"94",
     "STORAGE":"30°C",
     "type":"syrup",
-    "disease":"cough"
+    "disease":"cough",
+    "quan":"Bottle of 100ml syrup"
 },
 {
     "item":"Cyra-D Capsule",
@@ -481,9 +519,11 @@
     "mprice":"MRP ₹37",
     "discount":"20% off",
     "Price":"₹34",
+    "Pric":"34",
     "STORAGE":"30°C",
     "type":"capsule",
-    "disease":"ulcer"
+    "disease":"ulcer",
+    "quan":"strips of 15 tablets"
 },
 
 {
@@ -506,9 +546,11 @@
     "mprice":"MRP ₹293",
     "discount":"16% off",
     "Price":"₹255",
+    "Pric":"255",
     "STORAGE":"30°C",
     "type":"capsule",
-    "disease":"calcium"
+    "disease":"calcium",
+    "quan":"strips of 15 tablets"
 },
 
 {
@@ -531,9 +573,11 @@
     "mprice":"MRP ₹60",
     "discount":"16% off",
     "Price":"₹51",
+    "Pric":"51",
     "STORAGE":"30°C",
     "type":"capsule",
-    "disease":"bp"
+    "disease":"bp",
+    "quan":"strips of 15 tablets"
 },
 {
     "item":"Augmentin 625 Duo Tablet",
@@ -555,9 +599,11 @@
     "mprice":"MRP ₹1999",
     "discount":"75% off",
     "Price":"₹499",
+    "Pric":"499",
     "STORAGE":"30°C",
     "type":"Tablet",
-    "disease":"infection"
+    "disease":"infection",
+    "quan":"strips of 15 tablets"
 },
 {
     "item":"Allegra 120mg Tablet",
@@ -579,9 +625,11 @@
     "mprice":"MRP ₹218",
     "discount":"16% off",
     "Price":"₹179",
+    "Pric":"179",
     "STORAGE":"30°C",
     "type":"Tablet",
-    "disease":"fever"
+    "disease":"fever",
+    "quan":"strips of 15 tablets"
 },
 {
     "item":"Moov Pain Relief Cream",
@@ -603,9 +651,11 @@
     "mprice":"MRP ₹218",
     "discount":"16% off",
     "Price":"₹179",
+    "Pric":"179",
     "STORAGE":"30°C",
     "type":"cream",
-    "disease":"muscular"
+    "disease":"muscular",
+    "quan":"strips of 15 tablets"
 },
 {
     "item":"Dr Ortho an Ayurvedic Oil",
@@ -627,9 +677,11 @@
     "mprice":"MRP ₹229",
     "discount":"16% off",
     "Price":"₹188",
+    "Pric":"188",
     "STORAGE":"30°C",
     "type":"cream",
-    "disease":"muscular"
+    "disease":"muscular",
+    "quan":"Bottle of 150 ml"
 },
 {
     "item":"Iodex Balm",
@@ -651,9 +703,11 @@
     "mprice":"MRP ₹160",
     "discount":"16% off",
     "Price":"₹140",
+    "Pric":"140",
     "STORAGE":"30°C",
     "type":"cream",
-    "disease":"muscular"
+    "disease":"muscular",
+    "quan":"Bottle of 20 gm cream"
 },
 {
     "item":"Crocin Pain Relief Tablet",
@@ -674,8 +728,10 @@
     "mprice":"MRP ₹65",
     "discount":"16% off",
     "Price":"₹45",
+    "Pric":"45",
     "STORAGE":"30°C",
     "type":"Tablet",
-    "disease":"fevercoldpain"
+    "disease":"fevercoldpain",
+    "quan":"strips of 15 tablets"
 }
 ]

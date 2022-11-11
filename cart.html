@@ -4,12 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>All Medicines</title>
-    <link rel="stylesheet" href="medpage.css" />
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
-    />
+    <title>Cart</title>
+    <link rel="stylesheet" href="./cart.css">
 </head>
 <body>
     <div class="container">
@@ -45,51 +41,7 @@
                 /></a>
               </div>
             </div>
-            <div class="search-bar">
-             <div class="filterdata">
-                <select name="" class="fildata" onchange="typeofmed()">
-                    <option value="Filter All" >Select Category</option>
-                    <option value="Tablet">Tablets</option>
-                    <option value="capsule">Capsules</option>
-                    <option value="syrup">Syrups</option>
-                    <option value="cream">Creams</option>
-                </select>
-             </div>
-              <div class="search-medicine">
-                <input
-                  oninput="search()"
-                  type="text"
-                  placeholder="Search For Medicine and Health Care Product"
-                  id="itemsearch"
-                />
-                <button id="main-search">
-                  <i class="fa fa-search" style="font-size: 18px"> </i>
-                </button>
-              </div>
-              <div class="filterdata">
-                <select name="" class="fildatadis" onchange="typeofdis()">
-                    <option value="Filter All"><p>Select Disease</p></option>
-                    <option value="acne"><p>Acne Prevention</p></option>
-                    <option value="anxiety"><p>Anxiety issue</p></option>
-                    <option value="stomach"><p>Stomach Pain</p></option>
-                    <option value="skin"><p>Skin Care</p></option>
-                    <option value="sneezing"><p>Sneezing</p></option>
-                    <option value="weight"><p>Weight Loss</p></option>
-                    <option value="bp"><p>High BP</p></option>
-                    <option value="infection"><p>Bacterial Infection</p></option>
-                    <option value="cough"><p>Cough</p></option>
-                    <option value="fevercoldhead"><p>Headache</p></option>
-                    <option value="insect"><p>Insect Bite</p></option>
-                    <option value="fungal"><p>Fungal Infection</p></option>
-                    <option value="melasma"><p>Melasma</p></option>
-                    <option value="cold"><p>Cold</p></option>
-                    <option value="ulcer"><p>Ulcer</p></option>
-                    <option value="calcium"><p>Calcium</p></option>
-                    <option value="fever"><p>Fever</p></option>
-                    <option value="muscular"><p>Muscular Pain</p></option>
-                </select>
-             </div>
-            </div>
+
             <div class="item-bar">
               <div class="HRC">
                 <button class="HRCbtn">Health Resource Center</button>
@@ -232,6 +184,41 @@
             </div>
           </div>
           <div class="midsec"></div>
+
+
+          <div class="total">
+          <h1>Congrats! You have unlocked extra savings! </h1>
+            <div class="undiv">
+                <div class="alltot">
+                    <div class="firdiv">
+                        <p>Total Quntity : </p>
+                        <p id="totquan"></p>
+                    </div>
+                    <hr>
+                    <div class="secdiv">
+                        <p>Shipping Fee : </p>
+                        <p id="shipfee"></p>
+                    </div> <hr>
+                    <div class="thidiv">
+                        <p>Total Savings: </p>
+                        <p id="totsav"></p>
+                    </div>
+                 </div>
+                 <div class="orderall">
+                    <div class="foudiv"><input type="text" placeholder="Apply Coupon" id="masai">
+                        <button id="ccc">Apply</button>
+                    </div> <hr>
+                    <div class="fivdiv">
+                        <p>Total to Paid: </p>
+                        <p id="totpaid"></p>
+                    </div> <hr>
+                    <div class="sixdiv">
+                        <button id="totorder">Order Now</button>
+                    </div>
+                
+                 </div>
+            </div>
+          </div>
           <div class="endsec">
             <div class="num">
               <h1>INDIA’S LARGEST HEALTHCARE PLATFORM</h1>
@@ -296,5 +283,5 @@
           </div>
     </div>
 </body>
-<script src="./medpage.js"></script>
+<script src="./cart.js"></script>
 </html>
