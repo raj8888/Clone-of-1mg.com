@@ -1,0 +1,100 @@
+body{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: rgb(166, 214, 166);
+}
+form{
+  margin: auto;
+  margin-top: 30px;
+  width: 27%;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.formContainer>#top{
+  display: flex;
+}
+.formContainer>#top>img{
+  width: 80px;
+  height: 80px;
+  display: block;
+  
+}
+h1{
+text-align: center;
+margin-left: 20px;
+color: rgb(19, 217, 32);
+text-shadow: 1px 1px 1px greenyellow, 
+3px 3px 5px rgb(124, 203, 124)
+}
+* {box-sizing: border-box}
+input[type=text], input[type=password],input[type=tel] {
+  width: 100%;
+  font-size: 15px;
+  padding: 7px;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+  border-radius: 5px;
+}
+label{
+  font-size: 15px;
+}
+input[type=text]:focus, input[type=password]:focus ,input[type=tel]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+#upp {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 20px;
+}
+.cancel, .signup{
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.9;
+  width: 48%;
+  border-radius: 10px;
+}
+.signup:hover,.cancel:hover {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.cancel {
+  padding: 14px 20px;
+  background-color: rgb(245, 38, 38);
+  margin-top: 10px;
+}
+.signup{
+  padding: 14px 20px;
+  background-color: rgb(35, 197, 35);
+  margin-top: 10px;
+}
+.formContainer {
+  padding: 16px;
+}
+.formContainer p{
+  font-size: 20px;
+}
+#tc{
+  font-size: 13px;
+  color: grey;
+}
+#sgn{
+  display: flex;
+  justify-content: space-between;
+}
+
+#or{
+  text-align: center;
+  font-size: 13px;
+}
+ #login{
+  text-align: center;
+ }
+
+ #login>a{
+  text-decoration: none;
+  font-weight: bold;
+ }

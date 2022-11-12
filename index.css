@@ -42,12 +42,14 @@
     padding: 0px 10px;
 }
 #slo>a{
-    padding: 0px 10px;
     text-decoration: none;
-    font-weight: bolder;
+    margin: 0px 8px;
     color: black;
+    font-weight: bold;
 }
-
+#slo>a:hover{
+    color: rgb(39, 232, 58);
+}
 .search-bar{
    /* margin-top: 10px; */
     width: Auto;
@@ -84,7 +86,7 @@
     border: none;
     padding: 8px 20px;
     border-radius: 10px;
-    background-color: rgb(62, 236, 68);
+    background-color: rgb(39, 223, 45);
     color: white;
     font-weight: bolder;
 }
@@ -103,7 +105,7 @@
      padding-bottom: 7px;
  }
  .HRCbtn {
-    background-color: rgb(55, 215, 55);
+    background-color: rgb(39, 223, 45);;
     padding: 10px;
     font-size: 15px;
     border: none;

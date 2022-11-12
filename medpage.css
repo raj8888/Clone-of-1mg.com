@@ -42,10 +42,13 @@
     padding: 0px 10px;
 }
 #slo>a{
-    padding: 0px 10px;
     text-decoration: none;
-    font-weight: bolder;
+    margin: 0px 8px;
     color: black;
+    font-weight: bold;
+}
+#slo>a:hover{
+    color: rgb(39, 232, 58);
 }
 
 .search-bar{
