@@ -16,7 +16,6 @@ setInterval(changeImage,3000);
 fetch("./JSON_Files/brands.json")
 .then((res)=>res.json())
 .then((data)=>{
-  console.log(data)
   displaybrands(data)
 })
 
@@ -210,3 +209,6 @@ function displaynewar(datanewar){
  });
 }
 
+let ans=localStorage.getItem("name")
+
+document.getElementById("name").innerText=ans

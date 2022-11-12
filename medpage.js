@@ -97,4 +97,7 @@ function displayammmed(allmed){
     document.querySelector(".midsec").append(div)
  });
 }
+let ans=localStorage.getItem("name")
+
+document.getElementById("name").innerText=ans
 

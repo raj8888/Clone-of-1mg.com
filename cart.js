@@ -93,7 +93,7 @@ function display (data){
     let text2=document.createTextNode("-")
     dec.appendChild(text2)
     var val=eval(elem.Pric)+60;
-    total=total+val;
+    // total=total+val;
     
     let incdec=document.createElement("div")
     incdec.setAttribute("class","incdec")
@@ -127,7 +127,7 @@ function display (data){
              val=eval((elem.Pric * (show.value)))
             tot.innerText="Total Price : ₹"+val
             paid.innerText="To be Paid : ₹" +val
-            total=total-val;
+            total=total-(val+60);
             totalitems=totalitems-1
             functotal(total,totalitems)
         }
@@ -175,25 +175,29 @@ function deleteitems(data,index){
 display(data)
 
 function functotal(total,totalitems){
-    console.log(total)
-    console.log(totalitems)
-    let totalsave=(totalitems*10)*(totalitems*3)
-    let tobepaid=total-totalsave
+    let totalsave=0
+    
+    totalsave=(totalitems*10)*(totalitems*3)
+    tobepaid=total-totalsave
     document.getElementById("totquan").innerText="₹"+totalitems
     document.getElementById("shipfee").innerText="₹"+0
     document.getElementById("totsav").innerText="₹"+totalsave
     let cou=document.querySelector("#masai")
-   document.getElementById("ccc").addEventListener("click",function(e){
-        if(cou.value=="MASAI22"){
-            alert("Coupon Code Applied")
-            let offs=Math.floor((total*22)/100)
-            let off=total-offs
-            document.getElementById("totpaid").innerText="₹"+off
-        }else{
-            alert("Wrong Coupon Code")
-        }
-        
-    })
     document.getElementById("totpaid").innerText="₹"+tobepaid
+    document.getElementById("ccc").addEventListener("click",function(e){
+         if(cou.value=="MASAI10"){
+             alert("Coupon Code Applied")
+             let offs=Math.floor((total*10)/100)
+             let off=total-offs
+             document.getElementById("totpaid").innerText="₹"+off
+         }else{
+             alert("Wrong Coupon Code")
+         } 
+     })
+    
+   
 }
 
+let lona=localStorage.getItem("name")
+
+document.getElementById("lona").innerText=lona

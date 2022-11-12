@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="./signup.css">
+</head>
+<body>
+    <form>
+        <div class="formContainer">
+         <div id="top">
+          <img src="./Health_guru_logo.png" alt="">
+          <h1>LOGIN FORM</h1>
+         </div>
+        <hr id="upp">
+        <label for="mobile"><b>Mobile Number</b></label>
+        <input type="tel" name="mobile" id="mobile" placeholder="Enter Mobile Number" required>
+        <label for="email"><b>Email</b></label>
+        <input type="text" placeholder="Enter Email" name="email" id="email" autocomplete="username" required>
+        <label for="password"><b>Password</b></label>
+        <input type="password" placeholder="Enter Password" name="password" id="password" autocomplete="current-password" required>
+        <label>
+        <div id="sgn">
+        <button type="button" class="cancel" onclick="retn()">Cancel</button>
+        <button type="submit" class="signup">Login</button>
+        </div>
+        <p id="or">OR</p>
+        <div id="login"><a href="./signup.html">SIGN-UP</a></div>
+        <p id="tc">By creating an account you agree to our <a href="#"
+          style="color:dodgerblue">Terms & Privacy</a><p>
+        </div>
+        </form>
+</body>
+<script src="./login.js"></script>
+</html>
+
