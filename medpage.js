@@ -98,6 +98,8 @@ function displayammmed(allmed){
  });
 }
 let ans=localStorage.getItem("name")
-
-document.getElementById("name").innerText=ans
-
+if (ans==null||ans==undefined){
+  document.getElementById("name").innerText="Login | Sign Up"
+}else{
+  document.getElementById("name").innerText=ans
+}
