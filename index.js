@@ -210,5 +210,9 @@ function displaynewar(datanewar){
 }
 
 let ans=localStorage.getItem("name")
+if (ans==null||ans==undefined){
+  document.getElementById("name").innerText="Login | Sign Up"
+}else{
+  document.getElementById("name").innerText=ans
+}
 
-document.getElementById("name").innerText=ans

@@ -137,7 +137,7 @@ function display (data){
             alert("Coupon Code Applied")
             let offs=Math.floor((val*22)/100)
             let off=val-offs
-            paid.innerText="To be Paid : " + off
+            paid.innerText="To be Paid : ₹" + off
             total=total+off;
         }else{
             alert("Wrong Coupon Code")
@@ -186,10 +186,10 @@ function functotal(total,totalitems){
     document.getElementById("totpaid").innerText="₹"+tobepaid
     document.getElementById("ccc").addEventListener("click",function(e){
          if(cou.value=="MASAI10"){
-             alert("Coupon Code Applied")
-             let offs=Math.floor((total*10)/100)
-             let off=total-offs
+            let offs=Math.floor((total*10)/100)
+             let off=total-(offs*4)
              document.getElementById("totpaid").innerText="₹"+off
+             alert("Coupon Code Applied")
          }else{
              alert("Wrong Coupon Code")
          } 
@@ -197,7 +197,9 @@ function functotal(total,totalitems){
     
    
 }
-
 let lona=localStorage.getItem("name")
-
-document.getElementById("lona").innerText=lona
+if (lona==null||lona==undefined){
+  document.getElementById("lona").innerText="Login | Sign Up"
+}else{
+  document.getElementById("lona").innerText=lona
+}
